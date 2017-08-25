@@ -7,3 +7,5 @@ using Sourcetree gui application
 under Windows OS
 // TODO add some more readme text
 bla bla bla
+
+changes2
