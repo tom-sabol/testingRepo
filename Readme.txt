@@ -9,6 +9,9 @@ under Windows OS
 <<<<<<< HEAD
 bla bla bla
 
+
+changes from branch 2
+
 branch1
 
 branch1
